@@ -251,8 +251,10 @@ margin: 0 auto;
   font-size: 28px;
 }
 .hero-description{
-  margin-left: 4.5rem;
-  width: 400px;
+  margin-left: 5.5rem;
+  width: 370px;
   text-align: center;
+  font-size: 13px;
+  
   }
 }
