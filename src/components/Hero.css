@@ -175,3 +175,43 @@ transition: all 0.3s ease-in-out;
     color: #F5C518;
     align-items: center;
 }
+
+/* Responsive Layout for Hero Section */
+@media (max-width: 1024px) {
+
+  .hero-content {
+    flex-direction: column;
+    text-align: center;
+    padding: 4rem 20px;
+  }
+
+  .hero-text {
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+
+  .hero-heading {
+    width: 100%;
+    line-height: 1.3;
+    font-size: 2.2rem;
+  }
+
+  .btn-outline,
+  .btn-filled,
+  #arrow-btn {
+    width:100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: auto;
+  }
+
+  .hero-image:hover img {
+    width: 100%;
+    height: auto;
+  }
+}

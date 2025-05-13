@@ -1,0 +1,20 @@
+footer{
+    /* background-color: var(--black-color); */
+}
+.minimal-footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 14px;
+}
+
+.brand-name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.rights {
+  font-size: 13px;
+  color: #ccc;
+}

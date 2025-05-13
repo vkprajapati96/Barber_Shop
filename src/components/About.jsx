@@ -4,7 +4,7 @@ import AboutImg from "../assets/about.webp"
 
 const About = () => {
   return (
-    <section className="about-con">
+    <section  id='about'  className="about-con">
     <div className="about-section container">
       <div className="about-heading">
         <p className="story-tag">Our Story</p>

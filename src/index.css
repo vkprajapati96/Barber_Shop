@@ -1,5 +1,6 @@
 
 html,body{
+    overflow-x: hidden;
     height: 100%;
     width: 100%;
     /* background-color: var(--bg-color); */
@@ -14,6 +15,7 @@ html,body{
 :root{
     --black-color:#1A1A1A;
     --bg-color:#1D1D1D;
+    --light-yellow:#D6B037;
 }
 *{
 padding: 0;
